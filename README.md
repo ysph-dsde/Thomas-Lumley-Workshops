@@ -19,7 +19,7 @@ Researchers often want to add more measurements to an existing database. These m
 
 **Workshop Title:** &nbsp; Analyzing larger data in R
 
-**Date:** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Monday, February $4^{\text{th}}$, 2025
+**Date:** &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; Tuesday, February $4^{\text{th}}$, 2025
 
 Even with growing computer power, researchers sometimes want to work with datasets that are much bigger than computer memory. The interfaces to allow selection, summarization, and aggregation of very large datasets from R are increasingly transparent and easy to set up. I will demonstrate simple analysis of large datasets in R. I will also show how some more complicated analyses can be partitioned between R and a database to exploit the advantages of both systems. I will primarily use duckdb, but I will refer to other large-data interfaces.
 
